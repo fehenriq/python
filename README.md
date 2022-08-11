@@ -1,2 +1,2 @@
 # python-hangman-game
-hangman game made with pure python.
+hangman game made with pure python
