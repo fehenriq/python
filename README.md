@@ -4,7 +4,7 @@ Jogo da forca feito com python puro
 
 ## 🔨 Funcionalidades do projeto
 
-O projeto recebe um .txt com diversas palavras e te dá 7 tentativas para acertar
+O projeto recebe um .txt com diversas palavras e te dá 7 tentativas para acertar  
 Caso acerte é exibido uma tela de vitória, caso contrário uma tela de derrota
 
 ## ✔️ Técnicas e tecnologias utilizadas
